@@ -2,3 +2,5 @@
 Yuki Priv8 Shell Backdoor 
 - One Liner Shell
 - uploader 
+# Help
+- priv8.php?cmd=help
