@@ -7,7 +7,9 @@
 
 # yukipriv8-shell
 Yuki Priv8 Shell Backdoor 
+- Bypass Shell
 - One Liner Shell
-- uploader 
+- Uploader
+- Auto Add Admin Wordpress
 # Help
 - priv8.php?cmd=help
